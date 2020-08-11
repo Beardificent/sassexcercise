@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 # Title: SASS
 
 
 : 
+=======
+https://beardificent.github.io/sassexcercise/example.html
+
+# Title: SASS: 
+>>>>>>> 922700ad039e09d76474fff56973ff04e4b82f36
 
 - Repository: `challenge-sass`
 - Type of Challenge: `Learning Challenge`
